@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618902772 source:c:\app\workspace\codeblock\c_test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1578030730 source:c:\app\workspace\codeblock\c_test\test.c
+
+1603438886 source:c:\app\workspace\codeblock\c_test\http.c
+
